@@ -7,6 +7,7 @@
 *.swp
 bin/
 build/
+out/
 solution/
 
 # Ignore Eclipse project files
